@@ -1,0 +1,12 @@
+LIBRERIAS USADAS:
+- numpy:
+
+Cálculo numérico y manejo de matrices.
+Operaciones matemáticas sobre filas y columnas.
+Registro de pasos intermedios con copias de matrices.
+
+- tkinter:
+
+Desarrollo de interfaces gráficas.
+Widgets para entrada de datos (Entry) y botones (Button).
+Mostrar resultados y mensajes emergentes (messagebox).
